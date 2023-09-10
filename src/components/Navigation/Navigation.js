@@ -18,8 +18,8 @@ function Navigation() {
           <MdMenu size="40" onClick={menuToggle} />
         )}
       </MenuBtn>
-      <Nav menuToggle={isOpenMenu}>
-        <Link exact to="/" onClick={menuToggle}>
+      <Nav>
+        <Link to="/" onClick={menuToggle}>
           Home
         </Link>
 
