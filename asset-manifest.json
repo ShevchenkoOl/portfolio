@@ -1,13 +1,37 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.7acaea2f.css",
-    "main.js": "/portfolio/static/js/main.07d3183d.js",
+    "main.css": "/portfolio/static/css/main.ca621928.css",
+    "main.js": "/portfolio/static/js/main.a1699151.js",
+    "home-view.js": "/portfolio/static/js/home-view.1b00f226.chunk.js",
+    "projects-view.js": "/portfolio/static/js/projects-view.00371c34.chunk.js",
+    "not-found-view.js": "/portfolio/static/js/not-found-view.22b8d3cb.chunk.js",
+    "static/js/583.b1f3e0c1.chunk.js": "/portfolio/static/js/583.b1f3e0c1.chunk.js",
+    "static/js/355.0e810680.chunk.js": "/portfolio/static/js/355.0e810680.chunk.js",
+    "static/media/imageFinder.png": "/portfolio/static/media/imageFinder.a29af18d64b3b0ae0e83.png",
+    "static/media/filmoteka.png": "/portfolio/static/media/filmoteka.c4c6affdc4a73c10bfe3.png",
+    "static/media/webStudio.png": "/portfolio/static/media/webStudio.5b70c1a85f45e56984f9.png",
+    "static/media/logo1.png": "/portfolio/static/media/logo1.fd785a7419b0d91c0cf8.png",
+    "static/media/barbershop.png": "/portfolio/static/media/barbershop.7941bd45e013e11e4394.png",
+    "static/media/webDev.png": "/portfolio/static/media/webDev.8a4579e5da7459cdb771.png",
+    "static/media/less.png": "/portfolio/static/media/less.1bc2618099dc6271ddce.png",
+    "static/media/movies.png": "/portfolio/static/media/movies.82fb2e6bb78155b87cb8.png",
+    "static/media/phonebook.png": "/portfolio/static/media/phonebook.0a2b68b6cb1440e433ef.png",
+    "static/media/weather.png": "/portfolio/static/media/weather.36716646ce3bf77f294c.png",
+    "static/media/error.jpg": "/portfolio/static/media/error.392246c6f2405110ccbc.jpg",
+    "static/media/ts.png": "/portfolio/static/media/ts.1a203e65baa39b0b972d.png",
+    "static/media/proTest.png": "/portfolio/static/media/proTest.6482b6ad1c367bddcf01.png",
+    "static/media/nextJs.png": "/portfolio/static/media/nextJs.6db19b31cc0a2f63cff4.png",
     "index.html": "/portfolio/index.html",
-    "main.7acaea2f.css.map": "/portfolio/static/css/main.7acaea2f.css.map",
-    "main.07d3183d.js.map": "/portfolio/static/js/main.07d3183d.js.map"
+    "main.ca621928.css.map": "/portfolio/static/css/main.ca621928.css.map",
+    "main.a1699151.js.map": "/portfolio/static/js/main.a1699151.js.map",
+    "home-view.1b00f226.chunk.js.map": "/portfolio/static/js/home-view.1b00f226.chunk.js.map",
+    "projects-view.00371c34.chunk.js.map": "/portfolio/static/js/projects-view.00371c34.chunk.js.map",
+    "not-found-view.22b8d3cb.chunk.js.map": "/portfolio/static/js/not-found-view.22b8d3cb.chunk.js.map",
+    "583.b1f3e0c1.chunk.js.map": "/portfolio/static/js/583.b1f3e0c1.chunk.js.map",
+    "355.0e810680.chunk.js.map": "/portfolio/static/js/355.0e810680.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7acaea2f.css",
-    "static/js/main.07d3183d.js"
+    "static/css/main.ca621928.css",
+    "static/js/main.a1699151.js"
   ]
 }
