@@ -4,7 +4,6 @@ import { Switch, Route } from 'react-router-dom';
 import { addBackToTop } from 'vanilla-back-to-top';
 //import { Switch } from 'react-router';
 
-
 import Container from './components/Container';
 import AppBar from './components/AppBar';
 import Footer from './components/Footer';
@@ -13,15 +12,17 @@ import LoaderComponent from './components/LoaderComponent';
 import { accentColor } from './assets/stylesVariables';
 
 const HomeView = lazy(() =>
-  import('./views/HomeView' /* webpackChunkName: "home-view" */),
+  import('./views/HomeView' /* webpackChunkName: "home-view" */)
 );
 
 const ProjectsView = lazy(() =>
-  import('./views/ProjectsView/ProjectsView' /* webpackChunkName: "projects-view" */),
+  import(
+    './views/ProjectsView/ProjectsView' /* webpackChunkName: "projects-view" */
+  )
 );
 
 const NotFoundView = lazy(() =>
-  import('./views/NotFoundView' /* webpackChunkName: "not-found-view" */),
+  import('./views/NotFoundView' /* webpackChunkName: "not-found-view" */)
 );
 
 function App() {
@@ -37,11 +38,11 @@ function App() {
       <Container>
         <Suspense fallback={<LoaderComponent />}>
           <Switch>
-            <Route exact={true} path="/">
+            <Route path="/" >
               <HomeView />
             </Route>
 
-            <Route path="/projects" >
+            <Route path="/projects">
               <ProjectsView />
             </Route>
 
