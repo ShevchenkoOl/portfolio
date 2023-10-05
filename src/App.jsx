@@ -38,7 +38,7 @@ function App() {
       <Container>
         <Suspense fallback={<LoaderComponent />}>
           <Switch>
-            <Route path="/" >
+            <Route path="/" exact >
               <HomeView />
             </Route>
 
