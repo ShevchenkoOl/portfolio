@@ -17,7 +17,7 @@ const HomeView = lazy(() =>
 );
 
 const ProjectsView = lazy(() =>
-  import('./views/ProjectsView' /* webpackChunkName: "projects-view" */),
+  import('./views/ProjectsView/ProjectsView' /* webpackChunkName: "projects-view" */),
 );
 
 const NotFoundView = lazy(() =>
@@ -37,11 +37,11 @@ function App() {
       <Container>
         <Suspense fallback={<LoaderComponent />}>
           <Switch>
-            <Route path="/">
+            <Route exact={true} path="/">
               <HomeView />
             </Route>
 
-            <Route path="/projects">
+            <Route path="/projects" >
               <ProjectsView />
             </Route>
 

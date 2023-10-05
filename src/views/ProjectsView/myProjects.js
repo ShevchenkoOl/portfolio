@@ -96,7 +96,7 @@ export const commandProjects = [
   {
     id: 'id-3',
     label: 'Ice Cream',
-    link:'yana2022.github.io/team23/',
+    link:'https://yana2022.github.io/team23/',
     repo: 'https://github.com/Yana2022/team23.git',
     preview: icecream,
     info:
