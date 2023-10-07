@@ -5,9 +5,10 @@ import git from '../../assets/images/techIcons/git.png';
 import javascript from '../../assets/images/techIcons/javascript.png';
 import react from '../../assets/images/techIcons/react.png';
 import redux from '../../assets/images/techIcons/redux.png';
-import nextJs from '../../assets/images/techIcons/nextJs.png';
+import nodeJs from '../../assets/images/techIcons/nodejs.png';
 import ts from '../../assets/images/techIcons/ts.png';
 import less from '../../assets/images/techIcons/less.png';
+import expressJs from '../../assets/images/techIcons/exjs.png';
 
 export const techSkills = [
   {
@@ -57,7 +58,12 @@ export const techSkills = [
   },
   {
     id: 'id-8',
-    label: 'Next.js',
-    icon: nextJs,
+    label: 'Node.js',
+    icon: nodeJs,
+  },
+  {
+    id: 'id-9',
+    label: 'Express.js',
+    icon: expressJs,
   },
 ];
