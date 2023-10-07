@@ -1,12 +1,12 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.ca621928.css",
-    "main.js": "/portfolio/static/js/main.ebe0cf6e.js",
-    "home-view.js": "/portfolio/static/js/home-view.1b00f226.chunk.js",
-    "projects-view.js": "/portfolio/static/js/projects-view.29e8b013.chunk.js",
-    "not-found-view.js": "/portfolio/static/js/not-found-view.22b8d3cb.chunk.js",
-    "static/js/583.b1f3e0c1.chunk.js": "/portfolio/static/js/583.b1f3e0c1.chunk.js",
-    "static/js/355.0e810680.chunk.js": "/portfolio/static/js/355.0e810680.chunk.js",
+    "main.js": "/portfolio/static/js/main.dd2bb8d9.js",
+    "home-view.js": "/portfolio/static/js/home-view.392ac1f6.chunk.js",
+    "projects-view.js": "/portfolio/static/js/projects-view.1b87506f.chunk.js",
+    "not-found-view.js": "/portfolio/static/js/not-found-view.1c27e021.chunk.js",
+    "static/js/583.28f5cda3.chunk.js": "/portfolio/static/js/583.28f5cda3.chunk.js",
+    "static/js/355.2fc57372.chunk.js": "/portfolio/static/js/355.2fc57372.chunk.js",
     "static/media/Ice-Cream.png": "/portfolio/static/media/Ice-Cream.5cde29257346dd800b23.png",
     "static/media/imageFinder.png": "/portfolio/static/media/imageFinder.a29af18d64b3b0ae0e83.png",
     "static/media/filmoteka.png": "/portfolio/static/media/filmoteka.c4c6affdc4a73c10bfe3.png",
@@ -21,15 +21,15 @@
     "static/media/nextJs.png": "/portfolio/static/media/nextJs.6db19b31cc0a2f63cff4.png",
     "index.html": "/portfolio/index.html",
     "main.ca621928.css.map": "/portfolio/static/css/main.ca621928.css.map",
-    "main.ebe0cf6e.js.map": "/portfolio/static/js/main.ebe0cf6e.js.map",
-    "home-view.1b00f226.chunk.js.map": "/portfolio/static/js/home-view.1b00f226.chunk.js.map",
-    "projects-view.29e8b013.chunk.js.map": "/portfolio/static/js/projects-view.29e8b013.chunk.js.map",
-    "not-found-view.22b8d3cb.chunk.js.map": "/portfolio/static/js/not-found-view.22b8d3cb.chunk.js.map",
-    "583.b1f3e0c1.chunk.js.map": "/portfolio/static/js/583.b1f3e0c1.chunk.js.map",
-    "355.0e810680.chunk.js.map": "/portfolio/static/js/355.0e810680.chunk.js.map"
+    "main.dd2bb8d9.js.map": "/portfolio/static/js/main.dd2bb8d9.js.map",
+    "home-view.392ac1f6.chunk.js.map": "/portfolio/static/js/home-view.392ac1f6.chunk.js.map",
+    "projects-view.1b87506f.chunk.js.map": "/portfolio/static/js/projects-view.1b87506f.chunk.js.map",
+    "not-found-view.1c27e021.chunk.js.map": "/portfolio/static/js/not-found-view.1c27e021.chunk.js.map",
+    "583.28f5cda3.chunk.js.map": "/portfolio/static/js/583.28f5cda3.chunk.js.map",
+    "355.2fc57372.chunk.js.map": "/portfolio/static/js/355.2fc57372.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ca621928.css",
-    "static/js/main.ebe0cf6e.js"
+    "static/js/main.dd2bb8d9.js"
   ]
 }
